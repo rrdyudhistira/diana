@@ -134,7 +134,7 @@ function PrayPage() {
                     <div className="justify-center">
                         <div className="flex-shrink-0 text-center px-5">
                             <h1 className="font-Pacifico text-sm md:text-2xl pb-2">
-                                An. Annisa Trania Rimbawati
+                               Trisnandi Esa Saputra 
                             </h1>
                         </div>
                     </div>
@@ -185,7 +185,7 @@ function PrayPage() {
                             <div className="justify-center">
                                 <div className="flex-shrink-0 text-center">
                                     <h1 className="font-Pacifico text-sm md:text-2xl pb-2">
-                                        An. M. Rivaldi Irawan
+                                        Diana Apriliyani
                                     </h1>
                                 </div>
                             </div>
