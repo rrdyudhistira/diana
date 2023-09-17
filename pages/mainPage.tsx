@@ -10,6 +10,7 @@ import MusicPlayer from '../components/music-player/index'
 import Aos from 'aos';
 // import weddingInstrument from '../music/weddingInstrument.mp3'
 import 'aos/dist/aos.css'
+import Footer from '../components/Footer'
 
 export default function Home() {
     useEffect(() => {
@@ -26,6 +27,7 @@ export default function Home() {
             <PrayPage />
             {/* <ProkesPage /> */}
             <InstagramPage />
+            <Footer/>
       </div>
 			<MusicPlayer />
     </>
