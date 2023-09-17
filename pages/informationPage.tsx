@@ -93,7 +93,7 @@ function InformationPage() {
           {/* Hero Image */}
           <div className="flex justify-center text-center pt-10 pb-10 md:px-96 md:pt-10-">
             <div className="w-11/12 h-60 md:w-4/5 md:h-72 lg:w-full lg:h-128 shadow-xl rounded-xl relative flex-shrink-0">
-              <iframe className="w-full h-60 md:w-full md:h-full lg:w-full lg:h-128 rounded-xl shadow-xl" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.4664594897636!2d106.80256251421902!3d-6.588795666239914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c5cd17948f23%3A0xcc8d353aabd8f8c3!2sSwiss-Belhotel%20Bogor!5e0!3m2!1sen!2sid!4v1651679315123!5m2!1sen!2sid" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+              <iframe className="w-full h-60 md:w-full md:h-full lg:w-full lg:h-128 rounded-xl shadow-xl" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d247.65643480607363!2d108.52312141281679!3d-6.70830265360613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBlok%20Wuni%20I%20RT%20001%2F004%20Desa%20Dawuan%20Kecamatan%20Tengahtani%20Kab.%20Cirebon!5e0!3m2!1sid!2sid!4v1694955412762!5m2!1sid!2sid" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
             </div>
           </div>
         </>
