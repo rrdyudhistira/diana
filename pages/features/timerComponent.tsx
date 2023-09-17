@@ -83,7 +83,7 @@ const Clock = ({ deadline }: {deadline: any}) => {
 };
  
 const Timer = () => {
-    const [deadline, setDeadline] = useState("Jun, 11, 2022");
+    const [deadline, setDeadline] = useState("Oct, 29, 2023");
     const classes = useStyle();
  
     return <Clock deadline={deadline} />;
